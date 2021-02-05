@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: com.devops.com-$NEXT_MINOR_VERSION

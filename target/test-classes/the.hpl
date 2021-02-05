@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: com.devops.com
+Long-Name: TODO Plugin
+Url: https://github.com/jenkinsci/com.devops.com-plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-02/05/2021 02:56-root)
+Hudson-Version: 2.235.1
+Jenkins-Version: 2.235.1
+Plugin-Dependencies: structs:1.20
+Plugin-Developers: 
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmUrl: https://github.com/jenkinsci/com.devops.com-plugin
+Libraries: /tmp/sample/src/main/resources,/tmp/sample/target/classes
+Resource-Path: /tmp/sample/src/main/webapp
+
